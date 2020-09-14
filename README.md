@@ -126,11 +126,11 @@ In short, I am passionate about technology.
 <h2 align="center">&#x1f4c8; GitHub Stats</h2>
 
 <p align="center">  
-<a href="https://github.com/andradeerik">
+<a href="https://github.com/Andradeerik">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andradeerik&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="auto" height="200" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img  src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" width="auto" height="200" />
+<a href="https://github.com/Andradeerik">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Andradeerik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" width="auto" height="200" />
 </a>
   </p>
 <p align="center">  
