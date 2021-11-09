@@ -1,14 +1,26 @@
-
-<h1 align="center">Hi <a href="#"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"></a>, I'm Andrade Erik</h1>
+<h1 align="center">Hola <a href="#">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"></a>, soy Andrade Erik
+</h1>
 <p align="center">
-  <a href="#"><img src="https://martidinformatica.neocities.org/javascript.gif.gif" width="100%" height="auto" ></a>
+  <a href="#">
+    <img src="https://martidinformatica.neocities.org/javascript.gif.gif" width="100%" height="auto" >
+  </a>
 </p>
-<h3 align="center">Web Developer | WoT pioneer | JavaScript Lover</h3>
+<h3 align="center">
+  Desarrollador Web | Pionero de WoT | Amante de JavaScript
+</h3>
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">
+    Conectate conmigo
+    <img
+      align="center"
+      src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif"
+      height="33px" /></h3>
 </div>
 <p align="center">
-<a href="https://twitter.com/AEDaniel18"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AEDaniel18">
+  <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">
+  </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andraderik/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://github.com/Andradeerik"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="Github"></a> &nbsp;&nbsp;
 <a href="mailto:dani.erik18ap@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>&nbsp;&nbsp;
@@ -16,28 +28,32 @@
 </p>
 
 <a href="#"><img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"></a>
+
 <h2 align="center">Bio</h2>
 <p align="center">
-Welcome to my GitHub!
+¡Bienvenido a mi GitHub!
 </p>
 <p align="center">
-I am a technologist, entrepreneur and researcher with 6 years of practical experience in creating client-side applications (web), although I also feel comfortable working in iot and back-end. I find myself frequently using JavaScript, HTML / CSS, Vue, React, Node, C ++, MQTT and Arduino. I am familiar and comfortable with tools like Git, Visual Studio Code, Trello, Github, firebase.
-I have focused on learning how technology develops, from electronics to web development, with a special interest in WOT (web of things). From my experience, I have dedicated myself to different disciplines, such as iot electronics and software development.
-In short, I am passionate about technology. 
+Soy tecnólogo, emprendedor e investigador con 6 años de experiencia práctica en la creación de aplicaciones del lado del cliente (web), aunque también me siento cómodo trabajando en iot y back-end. Con frecuencia utilizo JavaScript, HTML / CSS, Vue, React, Firebase, Node, C ++, MQTT y Arduino. Estoy familiarizado y me siento cómodo con herramientas como Git, Visual Studio Code, Trello, Github, firebase.
+Me he centrado en aprender cómo se desarrolla la tecnología, desde la electrónica hasta el desarrollo web, con especial interés en WOT (web of things). Desde mi experiencia me he dedicado a diferentes disciplinas, como la electrónica iot y el desarrollo de software.
+En definitiva, soy un apasionado de la tecnología.
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 Languages, Skills and Tools:</h2>
+<h2 align="center">👨‍💻 habilidades y herramientas:</h2>
 <p align="center">
-<a href="#">
+<!-- <a href="#">
 <img src = "https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat&logo=Raspberry-Pi" width="auto" height="25">
-</a>
+</a> -->
 <a href="#">
-<img src = "https://img.shields.io/badge/-Arduino-ACC?style=flat&logo=arduino" width="auto" height="25">
+<img src = "https://img.shields.io/badge/-git-black?style=flat&logo=Git" width="auto" height="25">
 </a>
 <a href="#">
 <img src = "https://img.shields.io/badge/-Visual Studio code-007ACC?style=flat&logo=visual-studio-code" width="auto" height="25">
+</a>
+<a href="#">
+<img src = "https://img.shields.io/badge/-Github-black?style=flat&logo=github" width="auto" height="25">
 </a>
 <a href="#">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="auto" height="25">
@@ -52,17 +68,14 @@ In short, I am passionate about technology.
 <img src = "https://img.shields.io/badge/-firebase-161616?style=flat&logo=firebase&logoColor=FFCB2B" width="auto" height="25">
 </a>
 <a href="#">
+<img src = "https://img.shields.io/badge/-Arduino-ACC?style=flat&logo=arduino" width="auto" height="25">
+</a>
+<!-- <a href="#">
 <img src = "https://img.shields.io/badge/-Babel-black?style=flat&logo=Babel" width="auto" height="25">
-</a>
-<a href="#">
+</a> -->
+<!-- <a href="#">
 <img src = "https://img.shields.io/badge/-Electron-white?style=flat&logo=electron" width="auto" height="25">
-</a>
-<a href="#">
-<img src = "https://img.shields.io/badge/-Github-black?style=flat&logo=github" width="auto" height="25">
-</a>
-<a href="#">
-<img src = "https://img.shields.io/badge/-git-black?style=flat&logo=Git" width="auto" height="25">
-</a>
+</a> -->
 <a href="#">
 <img src = "https://img.shields.io/badge/-linux-FCC624?style=flat&logo=linux&logoColor=white" width="auto" height="25">
 </a>
@@ -87,28 +100,28 @@ In short, I am passionate about technology.
 <a href="#">
 <img src = "https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar" width="auto" height="25">
 </a>
-<a href="#">
+<!-- <a href="#">
 <img src = "https://img.shields.io/badge/-webpack-white?style=flat&logo=webpack" width="auto" height="25">
-</a>
+</a> -->
 <a href="#">
 <img src = "https://img.shields.io/badge/-django-black?style=flat&logo=django" width="auto" height="25">
 </a>
-<a href="#">
+<!-- <a href="#">
 <img src = "https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff" width="auto" height="25">
-</a>
+</a> -->
 <a href="#">
 <img src = "https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B" width="auto" height="25">
 </a>
 <a href="#">
 <img src = "https://img.shields.io/badge/-Python%203-black?style=flat&logo=python" width="auto" height="25">
 </a>
-<a href="#">
+<!-- <a href="#">
 <img src = "https://img.shields.io/badge/-Android-black?style=flat&logo=android" width="auto" height="25">
-</a>
+</a> -->
 <a href="#">
 <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" width="auto" height="25">
 </a>
-  <br>
+  <!-- <br>
 <a href="#">
 <img src = "https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word" width="auto" height="25">
 </a>
@@ -117,13 +130,12 @@ In short, I am passionate about technology.
 </a>
 <a href="#">
 <img src = "https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint" width="auto" height="25">
-</a>
+</a> -->
 </p>
 
 ---
 
-
-<h2 align="center">&#x1f4c8; GitHub Stats</h2>
+<h2 align="center">&#x1f4c8; Estadísticas de GitHub</h2>
 
 <p align="center">  
 <a href="https://github.com/Andradeerik">
@@ -139,5 +151,8 @@ In short, I am passionate about technology.
 </a>
 <a href="https://github.com/Andradeerik/ESP32-BLE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andradeerik&repo=ESP32-BLE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="auto" height="100" />
-</a>    
+</a>
+<a href="https://github.com/Andradeerik/Blockchain-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andradeerik&repo=Blockchain-js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="auto" height="100" />
+</a>
 </p>
